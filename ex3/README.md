@@ -3,7 +3,7 @@
 Let’s search for some movies!
 Documentation of the API —> https://www.omdbapi.com/
 
-Example call to the API searching for HARRY Potter movies: http://www.omdbapi.com/?s=harry potter&apikey=adf1f2d7
+Example call to the API searching for HARRY Potter movies: http://www.omdbapi.com/?s=harrypotter&apikey=adf1f2d7
 
 What is the result of the call? 
 - Console log it to understand what datatype it is and what informations there are / what you might need.
